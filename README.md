@@ -1,2 +1,2 @@
 # koala
-Web site of the ANR KOALA project
+Web site of the ANR-19-CE25-0003-01 KOALA project
