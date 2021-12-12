@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to KOALA!
+KOALA (**K**nowledge-based f**O**g-sc**AL**e configur**A**tions) is a 4-year research project funded by the French National Research Agency (ANR).
 
-You can use the [editor on GitHub](https://github.com/clementquinton/koala/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
+- Édouard Guégain, Clément Quinton, Romain Rouvoy. On Reducing the Energy Consumption of Software Product Lines. 25th ACM International Systems and Software Product Line Conference (SPLC'21). [PDF](https://hal.inria.fr/hal-03269168/document)
+- Andreas Metzger, Clément Quinton, Zoltan Adam-Mann, Luciano Baresi, Klaus Pohl. Feature Model-Guided Online Reinforcement Learning for Self-Adaptive Services. International Conference on Service Oriented Computing (ICSOC'20). [PDF](https://hal.archives-ouvertes.fr/hal-02982029v2/document)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
+Any questions about the project? Feel free to [contact us](https://clementquinton.github.io/).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clementquinton/koala/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
